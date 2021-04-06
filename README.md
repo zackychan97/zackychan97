@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... learning web technologies in addition to getting my CS degree
+- 🔭 I’m currently working on ... getting my CS degree
 - 🌱 I’m currently learning ... C and the nitty-gritty of JavaScript
 - 👯 I’m looking to collaborate on ... web apps utilizing exciting modern technologies
 - 📫 How to reach me: ... by email at zackbumpous97@gmail.com
