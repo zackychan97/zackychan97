@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... getting my CS degree
-- 🌱 I’m currently learning ... C#/.NET in school and I am bettering my JavaScript powers in my own time
+- 🌱 I’m currently learning ... C/C#/Java in school and I am bettering my JavaScript powers in my own time
 - 👯 I’m looking to collaborate on ... some personal projects, and would really appreciate a mentor
 - 📫 How to reach me: ... by email at zackbumpous97@gmail.com
 - 😄 Pronouns: ... he/him
