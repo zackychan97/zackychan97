@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... getting my CS degree. About wrapped that up at Dakota State University: <a href="https://dsu.edu/academics/colleges/beacom-college-of-computer-and-cyber-sciences.html" target="_blank">DSU Beacom College</a>
+- 🔭 I’m currently working on ... getting my CS degree. About wrapped that up at Dakota State University: <a href="https://dsu.edu/academics/colleges/beacom-college-of-computer-and-cyber-sciences.html" target="_blank" rel="noopener noreferrer">DSU Beacom College</a>
 - I also work full time as a systems developer... typically with C#, SQL, and Azure, but also do some very light manipulating of data using COBOL/Natural-Adabase/CICs environment for on-prem IBM mainframe running on z/OS
 - 🌱 I’m currently learning ... all sorts of good stuff! I'm working on deepening my understanding with the above technologies for work, while taking courses at University. I am pursuing certain industry certifications, particularly in azure cloud.
 - 👯 I’m looking to collaborate on ... open-source software that sparks my curiosity. Lots of things come to mind, but software that makes a convincing case of improving people's lives is a good start. I'm pretty open-minded to at least listening to any proposals.
